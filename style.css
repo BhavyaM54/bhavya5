@@ -5,10 +5,15 @@
 .parent{
   border:2px solid blue;
 }
-
-
-
-
+table{
+  width:90%;
+}
+td{
+  padding:2%;
+}
+tr:nth-child(even){
+  background: #ddd;
+}
 .childone{
   width:30%;
   border:2px solid red;
@@ -39,7 +44,7 @@ img{
 @media only screen and (min-width:769px) and (max-width:1024px){
   .parent{
     display:flex;
-    flex-direction:column;
+    flex-direction:row;
   }
   .parent{
     border:2px solid blue;
@@ -51,7 +56,7 @@ a{
 
 
   .childone{
-    width:100%;
+    width:30%;
     border:2px solid red;
     padding:2%;
     margin:2%;
@@ -60,7 +65,7 @@ a{
     background-color:pink;
   }
   .childtwo{
-    width:100%;
+    width:70%;
     border: 2px solid red;
     padding: 2%;
     margin:2%;

@@ -25,5 +25,35 @@
     "institute":"Nirmala high School",
     "data":["2014","98%"]
   }
+],
+
+"skills":[
+{
+  "title":"programming Languages",
+  "info":["c","c++","python","java","ruby","R"]
+},
+{
+  "title":"Database",
+  "info":["Oracle","MySql","Sql"]
+},
+{
+  "title":"Operating System",
+  "info":["Windows","Unix","MAC","Linux"]
+},
+{
+  "title":"Web technologys",
+  "info":["HTML","JS","CSS","XMl"]
+}
+],
+"Achievements":[
+  {
+    "acheiveData":"Got 1<sup>st</sup> prize in PPT presentation"
+  },
+  {
+    "acheiveData":"Got 1<sup>st</sup> prize in Group discussion"
+  },
+  {
+    "acheiveData":"Got 1<sup>st</sup> prize in flower decaration"
+  }
 ]
 }
