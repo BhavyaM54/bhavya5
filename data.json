@@ -1,0 +1,29 @@
+{
+"details":{
+  "name":"bhavya",
+  "image":"download.png",
+  "email":"bhavyasri804@gmail.com",
+  "mobile":"9441165039",
+  "address":"PVPSIT"
+},
+"career":{
+  "info":"to purse a challenging carrer and to be a part of a company"
+},
+"education":[
+  {
+    "degree":"B-Tech",
+    "institute":"PVP",
+    "data":["2016-20","80%"]
+  },
+  {
+    "degree":"Intermediate",
+    "institute":"Narayana Junior College",
+    "data":["2014-16","89%"]
+  },
+  {
+    "degree":"S.S.C",
+    "institute":"Nirmala high School",
+    "data":["2014","98%"]
+  }
+]
+}
